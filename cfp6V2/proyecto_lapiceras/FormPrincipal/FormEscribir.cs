@@ -36,9 +36,9 @@ namespace formularios
             txbx_texto.Clear();
         }
 
-        private bool seleccionarLapicera(Lapicera lapiceraSeleccionada)
+        private void seleccionarLapicera(Lapicera lapiceraSeleccionada)
         {
-            bool retorno = false;
+            
 
             //analizar que haya seleccionado un item de la lista
             if (lst_lapiceras.SelectedItem != null)
@@ -53,7 +53,7 @@ namespace formularios
             }
 
 
-            return retorno;
+            
         }
 
         private void FormEscribir_Load(object sender, EventArgs e)
