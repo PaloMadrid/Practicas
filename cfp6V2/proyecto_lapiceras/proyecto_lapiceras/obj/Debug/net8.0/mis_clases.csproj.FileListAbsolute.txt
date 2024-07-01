@@ -9,3 +9,15 @@ C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\ne
 C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\refint\mis_clases.dll
 C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.pdb
 C:\Users\Plumi\Desktop\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\ref\mis_clases.dll
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.deps.json
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.dll
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.pdb
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.AssemblyInfoInputs.cache
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.AssemblyInfo.cs
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.csproj.CoreCompileInputs.cache
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.sourcelink.json
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.dll
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\refint\mis_clases.dll
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.pdb
+D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\ref\mis_clases.dll

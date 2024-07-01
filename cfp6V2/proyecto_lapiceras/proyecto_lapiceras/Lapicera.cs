@@ -61,15 +61,16 @@ namespace Mis_clases
 
         public bool Escribir(string textoIngresado)
         {
-            bool retorno=true;
+            bool retorno=false;
             int cantLetras=Funcion.ContarCaracteres(textoIngresado);
             int tintaActual= this.nivelDeTinta;
             tintaActual -= cantLetras;
 
-            if (tintaActual <= 0)
+            if (tintaActual > 0)
             {
-                retorno=false;
-            }            
+                retorno=true;
+                this.nivelDeTinta = tintaActual;
+            }
 
             return retorno;
         }
@@ -96,6 +97,8 @@ namespace Mis_clases
 
             return colores;
         }
+
+        
 
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj": {}
+    "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj": {
+    "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj",
+        "projectUniqueName": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj",
         "projectName": "mis_clases",
-        "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj",
-        "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\obj\\",
+        "projectPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj",
+        "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj": {
+    "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj",
+        "projectUniqueName": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj",
         "projectName": "testeo_lapiceras",
-        "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj",
-        "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\obj\\",
+        "projectPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\testeo_lapiceras.csproj",
+        "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\testeo_lapiceras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj": {
-                "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj"
+              "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj": {
+                "projectPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj"
               }
             }
           }
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

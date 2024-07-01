@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Plumi\\.nuget\\packages\\": {}
+    "C:\\Users\\Mauro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formularios.csproj",
+      "projectUniqueName": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formularios.csproj",
       "projectName": "formularios",
-      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formularios.csproj",
-      "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\obj\\",
+      "projectPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formularios.csproj",
+      "packagesPath": "C:\\Users\\Mauro\\.nuget\\packages\\",
+      "outputPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj": {
-              "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj"
+            "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj": {
+              "projectPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\mis_clases.csproj"
             }
           }
         }
@@ -92,7 +92,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -60,9 +60,7 @@ namespace formularios
             } else if (!marca.Any())
             {
                 MessageBox.Show("Seleccione una marca");
-            //}else if (color  ())
-            //{
-
+           
             }
             else
             {

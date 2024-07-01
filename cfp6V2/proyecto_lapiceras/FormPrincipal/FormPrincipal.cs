@@ -49,8 +49,10 @@ namespace FormPrincipal
 
         private void btn_escribir_Click(object sender, EventArgs e)
         {
+            //Lapicera seleccionada=(Lapicera)dtg_lapiceras.SelectedRows();
+            
             FormEscribir formRedactar = new FormEscribir();
-
+            formRedactar.ShowDialog();
 
 
 
