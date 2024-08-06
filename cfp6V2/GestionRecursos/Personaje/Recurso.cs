@@ -33,5 +33,6 @@ namespace mis_librerias
                 new Recurso("Medicina", 2, "Sirve para contrarestar enfermedades")
                 }; 
         } 
+
     }
 }

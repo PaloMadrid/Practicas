@@ -5,7 +5,8 @@ namespace FormPrincipal
 {
     public partial class FormPrincipal : Form
     {
-        private List<Lapicera> misLapiceras = new List<Lapicera>();
+        private List<Lapicera> misLapiceras;
+        private List<string> escritura;
         public FormPrincipal()
         {
             InitializeComponent();
@@ -13,7 +14,8 @@ namespace FormPrincipal
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            misLapiceras = new List<Lapicera>();
+            escritura = new List<string>();
             this.misLapiceras = Lapicera.ListaDeLapiceras();
             CargarDGV();
 
@@ -50,11 +52,16 @@ namespace FormPrincipal
         private void btn_escribir_Click(object sender, EventArgs e)
         {
             //Lapicera seleccionada=(Lapicera)dtg_lapiceras.SelectedRows();
-            
+
             FormEscribir formRedactar = new FormEscribir();
             formRedactar.ShowDialog();
+           
 
 
+        }
+
+        private void dtg_lapiceras_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
     }

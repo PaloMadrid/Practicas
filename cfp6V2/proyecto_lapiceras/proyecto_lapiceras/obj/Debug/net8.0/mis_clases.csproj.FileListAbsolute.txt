@@ -21,3 +21,15 @@ D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_
 D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\refint\mis_clases.dll
 D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.pdb
 D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\ref\mis_clases.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.deps.json
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\bin\Debug\net8.0\mis_clases.pdb
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.AssemblyInfoInputs.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.AssemblyInfo.cs
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.csproj.CoreCompileInputs.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.sourcelink.json
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\refint\mis_clases.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\mis_clases.pdb
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\proyecto_lapiceras\obj\Debug\net8.0\ref\mis_clases.dll

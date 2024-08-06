@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\",
+  "WorkspaceRootPath": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EDD1AA9-F7DA-4439-B4AB-A2C25298B5F1}|vehiculos\\vehiculos.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\vehiculos\\vehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EDD1AA9-F7DA-4439-B4AB-A2C25298B5F1}|vehiculos\\vehiculos.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\vehiculos\\vehiculos\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EDD1AA9-F7DA-4439-B4AB-A2C25298B5F1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDD1AA9-F7DA-4439-B4AB-A2C25298B5F1}|vehiculos\\vehiculos.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\vehiculos\\vehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EDD1AA9-F7DA-4439-B4AB-A2C25298B5F1}|vehiculos\\vehiculos.csproj|solutionrelative:vehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F824DDB-FA80-4029-A684-86B4E0BD0E5A}|biblioteca_Vehiculos\\biblioteca_Vehiculos.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\vehiculos\\biblioteca_vehiculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F824DDB-FA80-4029-A684-86B4E0BD0E5A}|biblioteca_Vehiculos\\biblioteca_Vehiculos.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\vehiculos\\biblioteca_vehiculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F824DDB-FA80-4029-A684-86B4E0BD0E5A}|biblioteca_Vehiculos\\biblioteca_Vehiculos.csproj|solutionrelative:biblioteca_vehiculos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F824DDB-FA80-4029-A684-86B4E0BD0E5A}|biblioteca_Vehiculos\\biblioteca_Vehiculos.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\biblioteca_vehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F824DDB-FA80-4029-A684-86B4E0BD0E5A}|biblioteca_Vehiculos\\biblioteca_Vehiculos.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\vehiculos\\biblioteca_vehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F824DDB-FA80-4029-A684-86B4E0BD0E5A}|biblioteca_Vehiculos\\biblioteca_Vehiculos.csproj|solutionrelative:biblioteca_vehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +31,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\vehiculos\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "vehiculos\\FormPrincipal.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\vehiculos\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vehiculos\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:32:14.309Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Moto.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\vehiculos\\Moto.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\vehiculos\\Moto.cs",
               "RelativeDocumentMoniker": "vehiculos\\Moto.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\vehiculos\\Moto.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\vehiculos\\Moto.cs",
               "RelativeToolTip": "vehiculos\\Moto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,29 +55,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Auto.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Auto.cs",
               "RelativeDocumentMoniker": "biblioteca_Vehiculos\\Auto.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Auto.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Auto.cs",
               "RelativeToolTip": "biblioteca_Vehiculos\\Auto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T22:36:38.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T22:36:38.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Vehiculo.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Vehiculo.cs",
               "RelativeDocumentMoniker": "biblioteca_Vehiculos\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Vehiculo.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\vehiculos\\biblioteca_Vehiculos\\Vehiculo.cs",
               "RelativeToolTip": "biblioteca_Vehiculos\\Vehiculo.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T22:23:53.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T22:23:53.221Z"
             }
           ]
         }

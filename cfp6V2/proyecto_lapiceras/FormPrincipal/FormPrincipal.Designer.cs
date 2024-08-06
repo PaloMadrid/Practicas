@@ -42,6 +42,7 @@
             dtg_lapiceras.Name = "dtg_lapiceras";
             dtg_lapiceras.Size = new Size(762, 339);
             dtg_lapiceras.TabIndex = 0;
+            dtg_lapiceras.CellContentClick += dtg_lapiceras_CellContentClick;
             // 
             // btn_agregar
             // 

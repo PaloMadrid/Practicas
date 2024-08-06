@@ -18,7 +18,6 @@ namespace mis_clases
                 if (!char.IsWhiteSpace(c))
                 {
                     cantidad++;
-
                 }
             }
             return cantidad;
@@ -31,7 +30,6 @@ namespace mis_clases
                 if (char.IsDigit(c))
                 {
                     esNumerico = false;
-                    break;
                 }
             }
             return esNumerico;
@@ -46,7 +44,6 @@ namespace mis_clases
                 if (!char.IsLetter(c))
                 {
                 esSoloLetras = false;
-                break;
                 }
             }
             return esSoloLetras;

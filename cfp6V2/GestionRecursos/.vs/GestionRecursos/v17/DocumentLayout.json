@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\GestionRecursos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\gestionrecursos\\personaje\\recurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|solutionrelative:personaje\\recurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\gestionrecursos\\personaje\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|solutionrelative:personaje\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\Personaje.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\gestionrecursos\\personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\Personaje.csproj|solutionrelative:personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\gestionrecursos\\personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|solutionrelative:personaje\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\gestionrecursos\\personaje\\recurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA3657C-A3A4-417D-B516-B3E242B92EEE}|Personaje\\mis_librerias.csproj|solutionrelative:personaje\\recurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 8,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Recurso.cs",
               "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\GestionRecursos\\Personaje\\Recurso.cs",
               "RelativeDocumentMoniker": "Personaje\\Recurso.cs",
               "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\GestionRecursos\\Personaje\\Recurso.cs",
               "RelativeToolTip": "Personaje\\Recurso.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAKAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:49:43.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T18:49:43.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Partida.cs",
               "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\GestionRecursos\\Personaje\\Partida.cs",
               "RelativeDocumentMoniker": "Personaje\\Partida.cs",
@@ -52,16 +51,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Personaje.cs",
               "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\GestionRecursos\\Personaje\\Personaje.cs",
               "RelativeDocumentMoniker": "Personaje\\Personaje.cs",
               "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\GestionRecursos\\Personaje\\Personaje.cs",
               "RelativeToolTip": "Personaje\\Personaje.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAcwCoAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T18:06:44.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T18:06:44.205Z"
             }
           ]
         }

@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\",
+  "WorkspaceRootPath": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\proyecto_lapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formescribir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\proyecto_lapiceras\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|solutionrelative:proyecto_lapiceras\\funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\proyecto_lapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DE08901-D7D0-4CA7-BE28-476EE94B1C73}|proyecto_lapiceras\\mis_clases.csproj|solutionrelative:proyecto_lapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|d:\\personal\\programacion\\practicas\\practicas\\cfp6v2\\proyecto_lapiceras\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{359C201B-8F5E-42AD-97DF-7FD0219044D1}|FormPrincipal\\formularios.csproj|solutionrelative:formprincipal\\formcrear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +47,99 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormEscribir.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
+              "Title": "FormEscribir.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
               "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.cs",
-              "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormPrincipal\\FormEscribir.cs [Dise\u00F1o]",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
+              "RelativeToolTip": "FormPrincipal\\FormEscribir.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T17:44:55.98Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-08-06T20:15:17.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lapicera.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Lapicera.cs",
+              "RelativeDocumentMoniker": "proyecto_lapiceras\\Lapicera.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Lapicera.cs",
+              "RelativeToolTip": "proyecto_lapiceras\\Lapicera.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:29:25.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormEscribir.cs",
-              "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.cs",
-              "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
-              "RelativeToolTip": "FormPrincipal\\FormEscribir.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAqwDcAAAAMAAAA",
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T18:11:07.384Z",
+              "WhenOpened": "2024-06-26T21:10:40.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "formCrear.cs",
-              "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\formCrear.cs",
-              "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
-              "RelativeToolTip": "FormPrincipal\\formCrear.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD4AAAALAAAA",
+              "Title": "FormEscribir.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormEscribir.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormEscribir.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\FormEscribir.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T18:31:29.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T20:15:13.529Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
-              "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
-              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAcwDMAAABLAAAA",
+              "Title": "formCrear.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\formCrear.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
+              "RelativeToolTip": "FormPrincipal\\formCrear.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwB8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T21:10:40.328Z"
+              "WhenOpened": "2024-08-02T01:17:39.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Lapicera.cs",
-              "DocumentMoniker": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Lapicera.cs",
-              "RelativeDocumentMoniker": "proyecto_lapiceras\\Lapicera.cs",
-              "ToolTip": "D:\\Personal\\programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Lapicera.cs",
-              "RelativeToolTip": "proyecto_lapiceras\\Lapicera.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAywGQAAAAIAAAA",
+              "Title": "Funcion.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Funcion.cs",
+              "RelativeDocumentMoniker": "proyecto_lapiceras\\Funcion.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\proyecto_lapiceras\\Funcion.cs",
+              "RelativeToolTip": "proyecto_lapiceras\\Funcion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T16:29:25.096Z"
+              "WhenOpened": "2024-08-02T12:24:20.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:26:24.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formCrear.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\formCrear.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\proyecto_lapiceras\\FormPrincipal\\formCrear.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\formCrear.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:31:51.638Z"
             }
           ]
         }

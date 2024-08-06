@@ -43,3 +43,26 @@ D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrinc
 D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formular.922FCDA0.Up2Date
 D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.genruntimeconfig.cache
 D:\Personal\programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\ref\formularios.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\formularios.exe
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\formularios.deps.json
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\formularios.runtimeconfig.json
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\formularios.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\formularios.pdb
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\mis_clases.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\bin\Debug\net8.0-windows\mis_clases.pdb
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.csproj.AssemblyReference.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.formCrear.resources
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.FormEscribir.resources
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\FormPrincipal.FormPrincipal.resources
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.csproj.GenerateResource.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.GeneratedMSBuildEditorConfig.editorconfig
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.AssemblyInfoInputs.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.AssemblyInfo.cs
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.csproj.CoreCompileInputs.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.sourcelink.json
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formular.922FCDA0.Up2Date
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\refint\formularios.dll
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.pdb
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\formularios.genruntimeconfig.cache
+E:\personal\curso programacion\practicas\Practicas\cfp6V2\proyecto_lapiceras\FormPrincipal\obj\Debug\net8.0-windows\ref\formularios.dll

@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\",
+  "WorkspaceRootPath": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\formestudiantes\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\biblioteca_estudiantes\\formestudiantes\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|c:\\users\\plumi\\desktop\\cfp6v2\\biblioteca_estudiantes\\formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\formestudiantes\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\biblioteca_estudiantes\\formestudiantes\\formcrearmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formcrearmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24FDF85-5325-4E3D-B50F-59E0A952A0ED}|Testeo_Estudiantes\\Testeo_Estudiantes.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\biblioteca_estudiantes\\testeo_estudiantes\\testeo_estudiantes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A24FDF85-5325-4E3D-B50F-59E0A952A0ED}|Testeo_Estudiantes\\Testeo_Estudiantes.csproj|solutionrelative:testeo_estudiantes\\testeo_estudiantes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24FDF85-5325-4E3D-B50F-59E0A952A0ED}|Testeo_Estudiantes\\Testeo_Estudiantes.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\biblioteca_estudiantes\\testeo_estudiantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24FDF85-5325-4E3D-B50F-59E0A952A0ED}|Testeo_Estudiantes\\Testeo_Estudiantes.csproj|solutionrelative:testeo_estudiantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\formestudiantes\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C37B835-5E7F-4D6E-92F7-5209E35E9266}|Biblioteca_Funciones\\Biblioteca_Funciones.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\biblioteca_estudiantes\\biblioteca_funciones\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C37B835-5E7F-4D6E-92F7-5209E35E9266}|Biblioteca_Funciones\\Biblioteca_Funciones.csproj|solutionrelative:biblioteca_funciones\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|e:\\personal\\curso programacion\\practicas\\practicas\\cfp6v2\\biblioteca_estudiantes\\formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36756CFE-B447-4374-9639-F905D946BB1F}|FormEstudiantes\\FormEstudiantes.csproj|solutionrelative:formestudiantes\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 8,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Testeo_Estudiantes",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\Testeo_Estudiantes\\Testeo_Estudiantes.csproj",
+              "RelativeDocumentMoniker": "Testeo_Estudiantes\\Testeo_Estudiantes.csproj",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\Testeo_Estudiantes\\Testeo_Estudiantes.csproj",
+              "RelativeToolTip": "Testeo_Estudiantes\\Testeo_Estudiantes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T01:04:03.53Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "formAlta.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs",
               "RelativeDocumentMoniker": "FormEstudiantes\\formAlta.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs*",
-              "RelativeToolTip": "FormEstudiantes\\formAlta.cs*",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowDUAAAAAAAAA",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs",
+              "RelativeToolTip": "FormEstudiantes\\formAlta.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T23:57:25.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormEstudiantes\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs",
-              "RelativeToolTip": "FormEstudiantes\\FormPrincipal.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwBwAAAAZAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\Testeo_Estudiantes\\Program.cs",
+              "RelativeDocumentMoniker": "Testeo_Estudiantes\\Program.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\Testeo_Estudiantes\\Program.cs",
+              "RelativeToolTip": "Testeo_Estudiantes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T21:02:14.802Z",
+              "WhenOpened": "2024-08-05T01:04:06.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "formCrearMateria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formCrearMateria.cs",
+              "RelativeDocumentMoniker": "FormEstudiantes\\formCrearMateria.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formCrearMateria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEstudiantes\\formCrearMateria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:03:55.72Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormEstudiantes\\FormPrincipal.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEstudiantes\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:02:08.353Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Biblioteca_Funciones\\Estudiante.cs",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\Biblioteca_Funciones\\Estudiante.cs",
+              "RelativeToolTip": "Biblioteca_Funciones\\Estudiante.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:02:47.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "formAlta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs",
               "RelativeDocumentMoniker": "FormEstudiantes\\formAlta.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "FormEstudiantes\\formAlta.cs [Dise\u00F1o]*",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\formAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEstudiantes\\formAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T21:27:59.808Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs",
+              "DocumentIndex": 7,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormEstudiantes\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormEstudiantes\\FormPrincipal.cs [Dise\u00F1o]",
+              "ToolTip": "E:\\personal\\curso programacion\\practicas\\Practicas\\cfp6V2\\Biblioteca_Estudiantes\\FormEstudiantes\\FormPrincipal.cs",
+              "RelativeToolTip": "FormEstudiantes\\FormPrincipal.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwBwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T21:02:08.353Z"
+              "WhenOpened": "2024-06-24T21:02:14.802Z",
+              "EditorCaption": ""
             }
           ]
         }
